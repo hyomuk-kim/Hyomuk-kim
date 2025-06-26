@@ -109,7 +109,7 @@ I'm eagerly looking forward to populating this space with innovative robotics pr
 <p align="center">
   <strong>For a detailed, visual walkthrough of my key projects, please visit my portfolio!</strong>
   <br/><br/>
-  <a href="https://hyomuk-kim.com" target="_blank">
+  <a href="https://hyomuk-kim.com/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-4B8BBE?style=for-the-badge&logo=react&logoColor=white">
   </a>
 </p>
