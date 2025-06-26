@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="center">
   I'm a passionate engineer and aspiring roboticist dedicated to building intelligent autonomous systems, <br> bridging the gap between code and the physical world.
   <br />
-  My journey has led me through impactful industry projects, and I'm excited to deepen my expertise <br> in robotics and control systems as an incoming Master's student at UC San Diego (ECE - ISRC). 🤖 <br>
+  My journey has led me through impactful industry projects, and I'm excited to deepen my expertise <br> in robotics and control systems as an incoming Master's student at UC San Diego (ECE - ISRC). 🦾🤖🦿 <br><br>
   <a href="https://github.com/hyomuk-kim">
     <img src="https://komarev.com/ghpvc/?username=hyomuk-kim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
@@ -114,17 +114,17 @@ I'm eagerly looking forward to populating this space with innovative robotics pr
   </a>
 </p>
 
-<!--
+
 ### Featured Academic Projects
 
 | Project Name | Description | Key Skills |
 | :--- | :--- | :--- |
-| **[Udacity Project 1: Particle Filter Kidnapped Vehicle]** | Implemented a particle filter in C++ to help a lost, simulated vehicle re-localize itself on a map. | `C++`, `Particle Filter`, `Localization` |
-| **[Udacity Project 2: PID Controller]** | Developed a PID controller to maneuver a vehicle around a track in a simulator, tuning parameters for smooth navigation. | `C++`, `PID Control`, `Control Theory` |
-| **[Udacity Project 3: ...]** | [프로젝트에 대한 간략한 설명] | `[핵심 기술 1]`, `[핵심 기술 2]` |
-| **[Udacity Project 4: ...]** | [프로젝트에 대한 간략한 설명] | `[핵심 기술 1]`, `[핵심 기술 2]` |
-| **[Udacity Project 5: ...]** | [프로젝트에 대한 간략한 설명] | `[핵심 기술 1]`, `[핵심 기술 2]` |
--->
+| [![Udacity](https://img.shields.io/badge/Udacity-02b3e4?logo=udacity&logoColor=white)](https://www.udacity.com/course/robotics-software-engineer--nd209) <br> **Gazebo World Builder** | Designed a custom 3D world in the Gazebo simulator using SDF, building a complete test environment by populating it with various models and lighting configurations. | `Gazebo`, `SDF`, `ROS` |
+| [![Udacity](https://img.shields.io/badge/Udacity-02b3e4?logo=udacity&logoColor=white)](https://www.udacity.com/course/robotics-software-engineer--nd209) <br> **LiDAR-based Robot Chaser** | Developed a C++ ROS node that processes real-time LiDAR data to detect a target, then publishes velocity commands to autonomously pursue it. | `C++`, `ROS`, `LiDAR`, `Publish/Subscribe` |
+| [![Udacity](https://img.shields.io/badge/Udacity-02b3e4?logo=udacity&logoColor=white)](https://www.udacity.com/course/robotics-software-engineer--nd209) <br> **AMCL for Robot Localization** | Implemented and tuned the ROS AMCL package to re-localize a robot within a pre-existing map, successfully solving the "kidnapped robot problem." | `ROS`, `AMCL`, `Localization`, `Monte-Carlo Method` |
+| [![Udacity](https://img.shields.io/badge/Udacity-02b3e4?logo=udacity&logoColor=white)](https://www.udacity.com/course/robotics-software-engineer--nd209) <br> **2D SLAM with GMapping** | Utilized the `gmapping` SLAM package to build a system that autonomously creates a 2D occupancy grid map of an unknown environment during exploration. | `ROS`, `SLAM`, `gmapping`, `Mapping` |
+| [![Udacity](https://img.shields.io/badge/Udacity-02b3e4?logo=udacity&logoColor=white)](https://www.udacity.com/course/robotics-software-engineer--nd209) <br> **Autonomous Home Service Robot**| Developed a complete software package for a home service robot by integrating the full ROS navigation stack, enabling it to autonomously navigate to specified goals in a pre-mapped environment. | `ROS Navigation Stack`, `AMCL`, `Path Planning`, `System Integration` |
+
 
 <br />
 
