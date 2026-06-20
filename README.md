@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="center">
   I'm a passionate engineer and aspiring roboticist dedicated to building intelligent autonomous systems, <br> bridging the gap between code and the physical world.
   <br />
-  My journey has led me through impactful industry projects, and I'm excited to deepen my expertise <br> in robotics and control systems as an incoming Master's student at UC San Diego (ECE - ISRC). 🦾🤖🦿 <br><br>
+  My journey has led me through impactful industry projects, and I'm excited to deepen my expertise <br> in robotics and control systems as an Master's student at UC San Diego (ECE - ISRC). 🦾🤖🦿 <br><br>
   <a href="https://github.com/hyomuk-kim">
     <img src="https://komarev.com/ghpvc/?username=hyomuk-kim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 <br />
 
 ## 🔭 About Me
-- 📚 Incoming M.S. student in **ECE (Intelligent Systems, Robotics, and Control)** at **UC San Diego** (Fall 2025).
-- 🌱 Preparing for my next chapter at UC San Diego, carefully designing my M.S. curriculum <br>&emsp;&nbsp; to build a strong foundation for future innovations.
-- 💼 Seeking a Summer 2025 internship to tackle new challenges and bridge my industry expertise <br>&emsp;&nbsp; with advanced academic studies at UC San Diego.
-- 🥅 2025-26 Goal: To expand on my decade of experience by diving into advanced robotics theory and research at UCSD, <br>&emsp;&nbsp; and to document the resulting journey and projects here.
+
+- 📚 M.S. student in **ECE (Intelligent Systems, Robotics, and Control; [EC80](https://ece.ucsd.edu/faculty-research/ece-research-areas/intelligent-systems-robotics-control-impacted))** at **UC San Diego**.
+- 🔬 Spending Summer 2026 fully dedicated to hands-on research projects at the [Existential Robotics Lab (ERL)](https://erl.ucsd.edu/) after wrapping up my first three quarters.
+- 🥅 **Current Goal**: To master advanced robotics theory, bridge the gap between academic research and practical engineering, and document the entire journey here.
 
 <br />
 
